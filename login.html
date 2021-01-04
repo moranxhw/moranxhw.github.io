@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>登录</title>
+		<link rel="stylesheet" href="css/样式表.css" />
+		<script src="js/登录.js"></script>
+	</head>
+	<body>
+		<div id="whole">
+			<div id="pic">
+				<img id="imgs"/>				
+			</div>
+			<div id="zhuce">
+				<div id="display"></div>
+				<table>
+					<tr>
+						<td>手机号码</td>
+						<td>
+							<input id="phone" type="text" placeholder="11位手机号码"/>										
+						</td>
+						<td><span id="phone_msg"></span>	</td>
+					</tr>
+					<tr>
+						<td>验证码</td>
+						<td><input id="yz" type="text"/></td>
+						<td><a href="#"><span id="yzID"></span></a></td>
+						<td><span id="yz_msg"></span></td>
+					</tr>
+					<tr>
+						<td class="third" colspan="2">
+							<input id="login" type="button" value="登录"/>
+						</td>					
+					</tr>
+				</table>
+			</div>
+		</div>
+	</body>
+</html>
