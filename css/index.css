@@ -1,0 +1,124 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/* 开场动画 */
+#spinner {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+}
+#bg{
+	position: fixed;
+	z-index: -5;
+	opacity: 0.5;
+}
+#bgp{
+	width: 1500px;
+}
+/* 天文馆猫图片 */
+#div1 {
+	height: 760px;
+	width: 100%;
+	z-index: -2;	
+}
+/* 红色底色 */
+#div11 {
+	background-image: url(../img/redmeng.png);
+	/* div在网页左上方 */
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 760px;
+	z-index: 0;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#a1 {
+	text-decoration: none;  /*去掉超链接下划线*/
+	color: #FFFFFF;
+	font-size: 25px;
+}
+
+#p1 {
+	color: #FFFFFF;
+	font-size: 10px;
+}
+/* 简介文字 */
+#div2 {
+	position: absolute;
+	top: 350px;
+	left: 100px;
+	
+}
+/* 第一个博客图片 */
+#div3 {
+	position: absolute;
+	top: 800px;
+	left: 200px;
+}
+
+#pic {
+	width: 580px;
+	height: 330px;
+	opacity: 0.9;
+}
+/* 第一个博客介绍 */
+#div4 {
+	background-color: rgba(175, 175, 175, 0.8);
+	position: absolute;
+	top: 850px;
+	left: 780px;
+	color: #000000;
+	padding: 60px;
+	border: 1px solid #878787;
+}
+
+#a2 {
+	text-decoration: none;
+	/*去掉超链接下划线*/
+	color: #000000;
+	font-size: 25px;
+}
+/* 第一个博客介绍文字 */
+#p2 {
+	color: #000000;
+	font-size: 10px;
+}
+
+#div5{
+	position: absolute;
+	top: 1200px;
+	left: 130px;
+	width: 1200px;
+	background-color: #f0f6ff;
+	opacity: 0.8;
+}
+
+#wangye{
+	width: 350px;
+	height: 180px;
+	padding: 10px;
+}
+
+td{
+	width: 400px;
+	text-align: center;
+}
+
+#a3{
+	text-decoration: none;
+	/*去掉超链接下划线*/
+	color: #000000;
+}
+/* 未来可期 */
+#div6{
+	position: absolute;
+	top: 1500px;
+	left: 100px;
+	width: 100px;
+	height: 100px;
+}
