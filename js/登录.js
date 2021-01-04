@@ -19,7 +19,7 @@ window.onload = function() {
 
 //1.图片变化<img id="imgs">
 function changeImage() {
-	var urls = ["img/1.jpg", "img/2.jpg", "img/3.jpg"];
+	var urls = ["/img/1.jpg", "/img/2.jpg", "/img/3.jpg"];
 	if (i >= urls.length) {  //数组越界，下标从0开始
 		i = 0;
 	}
