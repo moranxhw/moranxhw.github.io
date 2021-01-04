@@ -1,0 +1,45 @@
+body{
+	background-color: #fff6fb;
+}
+div{
+	background-color: rgba(255, 255, 255, 0.2);
+}
+#biaotou{
+	margin: 0 auto;
+	width: 100%;
+	height: 150px;
+}
+#ul1{
+	background-color: #122B40;
+}
+#pic1{
+	width: 300px;
+}
+p{
+	text-indent: 2em;
+}
+
+
+
+#div1{
+	padding: 10px;
+}
+#div2{
+	background-image: url(../img/022.png);
+	
+}
+#pic4{
+	width: 200px;
+}
+td{
+	text-align: center;
+}
+
+#bg{
+	position: fixed;
+	z-index: -5;
+	opacity: 0.5;
+}
+#bgp{
+	width: 1500px;
+}

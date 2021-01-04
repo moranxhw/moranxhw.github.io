@@ -1,0 +1,63 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #fff6fb;
+}
+div{
+	background-color: #ffffff;
+}
+#biaotou {
+	/* 页头 */
+	width: 100%;
+	height: 180px;
+	background-image: url(../img/biaotou2.png), url(../img/biaotou.png);
+	background-position: right, top center;
+	background-repeat: no-repeat, no-repeat;
+	background-size: 30%, 100%;
+}
+
+#biaoge1 {
+	color: #666666;
+}
+#biaoge2 {
+	color: #000000;
+}
+#biaoge1,#biaoge2 {
+	border-bottom: 2px dotted #acacac;
+	padding: 3px;
+	font-size: 1px;
+}
+
+#pic01{
+	width: 500px;
+	margin: auto;
+	float: right;
+}
+
+p{
+	text-indent: 2em;
+}
+
+#pic02{
+	width: 530px;
+	margin: auto;
+	float: right;
+}
+
+#pic03{
+	width: 400px;
+	height: 200px;
+	position: relative;
+	top: 10px;
+	left: -30px;
+}
+
+#pic04{
+	width: 400px;
+	height: 200px;
+	position: relative;
+	top: 10px;
+	left: 0px;
+}

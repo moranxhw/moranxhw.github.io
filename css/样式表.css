@@ -1,0 +1,28 @@
+#whole{
+	width: 900px;
+	margin: 0 auto;
+}
+#imgs{
+	width: 900px;
+}
+#zhuce{
+	border: 1px dotted gray;
+}
+#zhuce table{
+	
+	width: 350px;
+	margin: 0 auto;
+	background-color: gainsboro;
+}
+#zhuce a{
+	text-decoration: none;
+}
+#username_msg,#pwd_msg,#yanzheng_msg{
+	font-size: 12px;
+}
+#yanzhengID{
+	background-color: darkseagreen;
+}
+.third{
+	text-align: center;
+}

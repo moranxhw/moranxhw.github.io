@@ -1,0 +1,44 @@
+body{
+	background-color: #fff6fb;
+}
+div{
+	background-color: #ffffff;
+}
+#biaotou{
+	margin: 0 auto;
+	width: 100%;
+	height: 150px;
+}
+#ul1{
+	background-color: #122B40;
+}
+p{
+	text-indent: 2em;
+}
+#biaoge1{
+	font-size: 1px;
+	color: #666666;
+	width: 950px;
+}
+#td1{
+	width: 500px;
+}
+#pic1{
+	width: 350px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+#biaoge2{
+	font-size: 3px;
+}
+#biaoge3{
+	font-size: 5px;
+	width: 800px;
+}
+#pic2{
+	position: absolute;
+	top: 100px;
+	left: 850px;
+	width: 250px;
+}

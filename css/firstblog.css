@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#html{
+	width: 700px;
+	margin: 0 auto;
+}
+#p1 {
+	font-size: 12px;
+}
+#p2 {
+	font-size: 42px;
+}
+hr{
+	border: 1px solid #bdbdbd;
+}
+p{
+	text-indent: 2em;
+	font-size: 15px;
+}
